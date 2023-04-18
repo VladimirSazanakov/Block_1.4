@@ -43,6 +43,7 @@
 	height: 88px;
 	margin: 0;
 	padding: 0;
+	padding-top: 10px;
 	padding-left: 24px;
 	justify-content: space-between;
 	align-items: center;
@@ -146,6 +147,7 @@
 	margin: 0;
 	padding: 0;
 	padding-left: 24px;
+	padding-bottom: 32px;
 	font-family: "TT Lakes", sans-serif;
 	font-size: 16px;
 	color: #1B1C21;
